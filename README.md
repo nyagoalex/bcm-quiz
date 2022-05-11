@@ -1,4 +1,4 @@
-# permit-plan-frontend
+# bcm-quiz
 
 ## Project setup
 ```
